@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jan Hansen, Launches Site"
+title: "Jan Hansen launches Site"
 date: 2020-12-02
 ---
 
