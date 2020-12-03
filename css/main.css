@@ -19,6 +19,8 @@ a {
 }
 a:hover {
     text-decoration: overline underline;
+    text-underline-offset: 1.2em;
+    text-overline-offset: 1.2em;
 }
 h1 {
     font-size: 3em;
