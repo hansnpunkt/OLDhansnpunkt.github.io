@@ -20,7 +20,7 @@ a {
 a:hover {
     text-decoration: overline underline;
     text-underline-offset: 10%;
-    text-overline-offset: 10%;
+    text-overline-offset: 20%;
 }
 h1 {
     font-size: 3em;
