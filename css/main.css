@@ -17,9 +17,8 @@ a {
     color: #87CEEB;
 }
 a:hover {
-    text-decoration: overline;
-    text-underline-offset: 10%;
-    text-overline-offset: 20%;
+    text-decoration: underline;
+    text-underline-offset: -1em;
 }
 h1 {
     font-size: 3em;
